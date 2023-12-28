@@ -1,0 +1,12 @@
+we have taken a variable score and initialized it to 0.
+then we have taken name as a variable so that the user can enter hie/her name and the game starts
+the ideology of this quiz game is very simple 
+we have made a function quiz and we can call that function n times using our condition.
+we have written a certain set of 5 questions and to answer those questions we have given 4 options;
+using if else condition the program deccides whether the answer is correct or worng;
+if correct then the answer is printed and some message is displayed ;
+if wrong answer then correct answer is prompted and next question is displayed;
+also as we ive correct answers the score gets on adding and if wrong answer the score remains as it was 
+till the previous question.
+also if the user wants to play the quiz game again they can do it.
+we have also included this functionality to play again.
