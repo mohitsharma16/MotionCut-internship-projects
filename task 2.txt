@@ -1,0 +1,9 @@
+To complete the task2 for making the program of Word Count from a given text.
+in this task we have implemented a simple function maed Word_count to solve task2;
+we have made use of strings to achieve our goals;
+we take input from the user and stores it in text variable;
+then we print the text entered by the user;
+we have made use of sum(),split(),and strip() functions of strings;
+after checking the text given by the user we display the total number of words in teh text;
+also we have implemented if the user wants to again find the number of words in a text he/she can
+do it just by typing Y/N .
